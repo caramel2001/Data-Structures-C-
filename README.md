@@ -3,5 +3,7 @@
 ##### The repository is divided into differnt sub-floders:
 * LinkedLists
 * Stacks And Queues
+* Binary Trees
+* Binary Search Trees
 * Graphs
 * Infix/PostFix/Prefix expression statements
