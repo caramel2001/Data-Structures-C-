@@ -65,7 +65,6 @@ void in2Post(char* infix, char* postfix)
                 pop(&s);
 
             }
-            postfix[j++]=' ';
 
             push(&s,c);
             break;
